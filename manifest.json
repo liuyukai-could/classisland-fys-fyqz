@@ -4,5 +4,9 @@
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/liuyukai-could/classisland-fys-fyqz/master/policy.json",
         "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.githubusercontent.com/liuyukai-could/classisland-fys-fyqz/master/policy.json",
+        "Version": 1
     }
 }
