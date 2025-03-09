@@ -1,0 +1,8 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "Anhui Province Fuyang No.7Senior High School",
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/liuyukai-could/classisland-fys-fyqz/master/policy.json",
+        "Version": 1
+    }
+}
